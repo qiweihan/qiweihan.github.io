@@ -2,89 +2,79 @@
 layout: page
 title: Curriculum Vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### Personal summary
 
+> Researcher working on applied data science in social goods. 
 
-## Currently
+### Education 
+- Ph.D. Engineering and Public Policy, Carnegie Mellon University, Pittsburgh PA
+- Ph.D. Institute for Systems and Robotics, Instituto Superior Tecnico, Lisbon, Portugal
+- M.S. Engineering and Public Policy, Carnegie Mellon University, Pittsburgh PA
+- M.S. Information Networking, Carnegie Mellon University, Pittsburgh PA
+- B.S. (with University Honor) Computer & Software Engineering, Beihang University, Beijing, China
 
-Standing on the shoulders of giants
+### Technical
 
-### Specialized in
+- Python, R, SQL, Java, Stata
+- Cloud devops in AWS and Azure
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Experience 
 
+- 2015: Job title, Company
 
-### Research interests
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- 2012: Job title, Company
 
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Education
+- 2011: Job title, Company
 
-`1654-1660`
-__The King's School, Grantham.__
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 2008: Job title, Company
 
-- Sizar
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-`1667 - death`
-__Trinity College, Cambridge__
+\newpage
 
-- Fellow
+### Publications
 
+- YYYY: Name et al. Article title. Journal name. Link/DOI
+- YYYY: Name et al. Article title. Journal name. Link/DOI
+- YYYY: Name et al. Article title. Journal name. Link/DOI
+- YYYY: Name et al. Article title. Journal name. Link/DOI
+- YYYY: Name et al. Article title. Journal name. Link/DOI
+- YYYY: Name et al. Article title. Journal name. Link/DOI
+- YYYY: Name et al. Article title. Journal name. Link/DOI
 
+### Selected presentations
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- YYYY: Title of presentation. Conference. Location. Poster/Oral
 
 
-## Occupation
+### Awards and supporting information
 
-`1600`
-__Royal Mint__, London
+- YYYY: Description of award, certificate, supporting info etc.
+- YYYY: Description of award, certificate, supporting info etc.
+- YYYY: Description of award, certificate, supporting info etc.
+- YYYY: Description of award, certificate, supporting info etc.
+- YYYY: Description of award, certificate, supporting info etc.
+- YYYY: Description of award, certificate, supporting info etc.
+- YYYY: Description of award, certificate, supporting info etc.
 
-- Warden
-- Minted coins
+### Memberships and committees
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+- YYYY: Name of committee/society etc.
+- YYYY: Name of committee/society etc.
+- YYYY: Name of committee/society etc.
+- YYYY: Name of committee/society etc.
+- YYYY: Name of committee/society etc.
+- YYYY: Name of committee/society etc.
