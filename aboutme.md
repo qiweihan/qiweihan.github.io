@@ -46,7 +46,7 @@ title: Curriculum Vitae
 
 ### Selected presentations
 
-- **Qiwei Han**, ́Inigo Mart́ınez de Rituerto de Troya, Mengxin Ji, Manas Gaur, Leid Zejnilovic, A Collaborative Filtering Recommender System in Primary Care: Towards a Trusting Patient-Doctor Relationship, The Sixth IEEE International Conference on Healthcare Informatics (ICHI), New York NY, June 2018.
+- **Qiwei Han**, Inigo Martinez de Rituerto de Troya, Mengxin Ji, Manas Gaur, Leid Zejnilovic, A Collaborative Filtering Recommender System in Primary Care: Towards a Trusting Patient-Doctor Relationship, The Sixth IEEE International Conference on Healthcare Informatics (ICHI), New York NY, June 2018.
 - **Qiwei Han**, Leid Zejnilovic, Pedro Pita Barros, Patient-doctor dyads and patients’ switching patterns: towards trusting relationship in primary care, 14th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Netherland, June 2018.
 - **Qiwei Han**, Leid Zejnilovic, Recommender Systems in Physical Retailing: Practices, Prospects and Policy Perspectives, The 3rd International Conference on Data for Policy, London UK, September 2017.
 - Leid Zejnilovic, **Qiwei Han**, The challenges and benefits of automated mediation system: case study of healthcare management, The 3rd International Conference on Data for Policy, London UK, September 2017.
@@ -54,23 +54,28 @@ title: Curriculum Vitae
 - **Qiwei Han**, Pedro Ferreira, Jõao Paulo Costeira, Asymmetric Role of Social Influence in Smartphone Adoption in A Large Mobile Network, 4th Conference on the Analysis of Mobile Phone Datasets (NetMob), MIT Media Lab, Cambridge MA, April 2015.
 - **Qiwei Han**, Pedro Ferreira, Determinants of Subscriber Churn in Wireless Network, Role of Peer Influence, 3rd Conference on the Analysis of Mobile Phone Datasets (NetMob), MIT Media Lab, Cambridge MA, May 2013.
 
+### Consulting
+- Sacoor Brothers, high-end Portuguese clothing company
 
+### Invited talks
+- 2017: Accenture Tech Labs
+- 2016: Huawei Technologies
 
 ### Awards and supporting information
 
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
 
-### Memberships and committees
+- AWS Cloud Credits for Research (DSSG-Europe Program), 2017-2018
+- Microsoft Azure for Research Award (DSSG-Europe Program), 2017
+- NSF Graduate Student Travel Grant, 2016
+- CMU Provost's Office Graduate Student Travel Grant, 2015
+- CMU - Portugal Program Ph.D. Fellowship, 2010-2015
+- Best Paper Award of 7th International Conference on Social Computing, 2014
+- CMU Full Tuition Scholarship for Master’s Degree, 2007-2009
+- Excellent University Graduate Award of Beihang University, 2007
 
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
+### Academic service
+
+- International Conference on Information Systems (2017)
+- Academy of Management Annual Meeting (2015-2017)
+- International Conference on Electronic Commerce (2016)
+- Electronic Commerce Research and Applications
