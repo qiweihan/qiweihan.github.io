@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 ### Personal summary
 
-> Researcher working on applied data science in social goods. 
+> Researcher working on applied data science for social good. 
 
 ### Education 
 - Ph.D. Engineering and Public Policy, Carnegie Mellon University, Pittsburgh PA
