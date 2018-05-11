@@ -22,13 +22,14 @@ title: Curriculum Vitae
 ### Research experience 
 
 - 2017-: Research Scientist, Nova School of Business and Economics, Lisbon, Portugal
---  Working with  José de Mello Saúde, the largest private healthcare provider in Portugal
---  Built hybrid recommender system with implicit feedback data from patient consultation history  
---  Deploying model in production environment and designing randomized experiment to estimate the effect of recommendation on patient choices
+    - Working with José de Mello Saúde, the largest private healthcare provider in Portugal
+    - Built hybrid recommender system with implicit feedback data from patient consultation history  
+    - Deploying model in production environment and designing randomized experiment to estimate the effect of recommendation on patient choices
 
-- 2012: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 2017-: Technical Mentor, Data Science for Social Good Europe
+    - Supervised 15 data science fellows to work on 5 real-world projects with social impact provided by government and public organizations from Italy, Netherland and Portugal on healthcare, digital tourism, unemployment prediction 
+    - Gave regular training sessions on data science and social science topics, such as programming, data analytics, causal inference
+    - Managed program-wise computing resources and DevOps environment in Amazon Web Services and Microsoft Azure, using Opsworks, RDS, EC2, S3, CloudWatch
 
 - 2011: Job title, Company
 
