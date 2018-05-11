@@ -17,13 +17,12 @@ baseurl: ""
 title: Qiwei Han
 
 # Short description of your site
-description: Researcher in Data Science and Public Policy
+description: Research Scientist in Data Science and Public Policy
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Research: “research”
   Blog: “blog”
 
@@ -94,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: “qiweihan.github.io”  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: “qiweihan.github.io”  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
