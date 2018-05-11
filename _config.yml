@@ -25,6 +25,7 @@ description: Research Scientist in Data Science and Public Policy
 navbar-links:
   Research: "research"
   Blog: "blog"
+  My lovely wife: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Chen.Wang1"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,14 +73,14 @@ social-network-links:
   github: qiweihan
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: qiwei-han-036a5220
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +14123133268
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
