@@ -38,6 +38,7 @@ title: Curriculum Vitae
 
 ### Publications
 
+- **Qiwei Han**, Mengxin Ji, Inigo Martinez de Rituerto de Troya, Manas Gaur, Leid Zejnilovic, A Hybrid Recommender System for Patient-Doctor Matchmaking in Primary Care, The Fifth IEEE International Conference on Data Science and Advanced Analytics (DSAA), Turin Italy, October 2018.
 - **Qiwei Han**, Daegon Cho, Characterizing the Technological Evolution of Smartphones: Insights from Performance Benchmarks, 18th International Conference on Electronic Commerce (ICEC), Suwon, Korea, August 2016. 
 - **Qiwei Han**, Social Influence Analysis using Mobile Phone Dataset, 17th IEEE International Conference on Mobile Data Management (MDM), Porto, Portugal, June 2016.
 - **Qiwei Han**, Pedro Ferreira, Jõao Paulo Costeira, Asymmetric Peer Influence in Smartphone Adoption in A Large Mobile Network, 14th International Conference on Mobile Business (ICMB) (co-located with ICIS), Fort Worth TX, December 2015.
