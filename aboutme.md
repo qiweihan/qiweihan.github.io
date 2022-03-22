@@ -14,6 +14,7 @@ title: Curriculum Vitae
 - M.S. Information Networking, Carnegie Mellon University, Pittsburgh PA
 - B.S. (with University Honor) Computer & Software Engineering, Beihang University, Beijing, China
 
+<<<<<<< HEAD
 ### Technical
 
 - Python, R, SQL, Java, Stata
@@ -80,3 +81,8 @@ title: Curriculum Vitae
 - Academy of Management Annual Meeting (2015-2017)
 - International Conference on Electronic Commerce (2016)
 - Electronic Commerce Research and Applications
+=======
+### My story
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+>>>>>>> a29203e260c72443cff3dc2f8ee38c1897b925dd
