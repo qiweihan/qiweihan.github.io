@@ -20,17 +20,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Website
+title: Qiwei Han's Personal Website
 
 # Your name to show in the footer
-author: Some Person
+author: Qiwei Han
 
 # --- List of links in the navigation bar --- #
 
 title: Qiwei Han
 
 # Short description of your site
-description: Research Scientist in Data Science and Public Policy
+description: Assistant Professor of Data Science and Business Analytics
 
 # --- Navigation bar options --- #
 
@@ -40,12 +40,12 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "http://qiweihan.github.io"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
-  CV: "aboutme"
+  # CV: "aboutme"
   Research: "research"
   My lovely wife: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Chen.Wang1"
 
@@ -103,16 +103,16 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+  twitter: francisihan
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
   #rss: false
-  email: “qiweih@alumni.cmu.edu”
+  email: “qiwei.han@novasbe.pt”
   github: qiweihan
 #  reddit: yourname
 #  linkedin: daattali
@@ -125,7 +125,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  #telephone: +14123133268
+#  telephone: +14123133268
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
