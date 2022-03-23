@@ -30,13 +30,13 @@ author: Qiwei Han
 title: Qiwei Han
 
 # Short description of your site
-description: Assistant Professor of Data Science and Business Analytics
+description: Hi folks, welcome to my website!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -95,8 +95,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Qiwei Han
+author: Qiwei Han
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -155,7 +154,7 @@ share-links-active:
 # How to display the link to your website in the footer
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "qiweihan.github.io"
+url-pretty: "qiweihan.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
