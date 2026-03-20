@@ -103,6 +103,38 @@
 </head>
 <body>
 
+  <!-- Site Navigation -->
+  <nav class="navbar" role="navigation" aria-label="main navigation" style="border-bottom: 1px solid #e8e8e8; background: #fff; padding: 0 1.5rem;">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="https://qiweihan.github.io" style="font-weight: 700; font-size: 1rem; color: #494e52;">
+        Qiwei Han
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="siteNav">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="siteNav" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="https://qiweihan.github.io/publications/" style="font-size: 0.9rem;">Publications</a>
+        <a class="navbar-item" href="https://qiweihan.github.io/talks/" style="font-size: 0.9rem;">Talks</a>
+        <a class="navbar-item" href="https://qiweihan.github.io/teaching/" style="font-size: 0.9rem;">Teaching</a>
+        <a class="navbar-item" href="https://qiweihan.github.io/cv/" style="font-size: 0.9rem;">CV</a>
+      </div>
+    </div>
+  </nav>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const burger = document.querySelector('.navbar-burger');
+      const menu = document.getElementById(burger.dataset.target);
+      burger.addEventListener('click', () => {
+        burger.classList.toggle('is-active');
+        menu.classList.toggle('is-active');
+      });
+    });
+  </script>
+
   <!-- Scroll to Top Button -->
   <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
     <i class="fas fa-chevron-up"></i>
