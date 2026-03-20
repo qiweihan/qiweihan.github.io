@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="Cross-Platform E-Commerce Product Categorization - Gross, Walter, Zoppi, Justus, Gambetti, Han, Kaiser">
+  <meta name="description" content="A multimodal hierarchical classification framework for e-commerce product categorization across 40 international fashion platforms, achieving 98.59% hierarchical F1 with CLIP and MLP late-fusion.">
+  <meta name="keywords" content="e-commerce, product categorization, multimodal learning, hierarchical classification, CLIP, RoBERTa, ViT, self-supervised learning, SimCLR, product recategorization">
+  <meta name="author" content="Lotte Gross, Rebecca Walter, Nicole Zoppi, Adrien Justus, Alessandro Gambetti, Qiwei Han, Maximilian Kaiser">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Nova School of Business and Economics">
+  <meta property="og:title" content="Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach">
+  <meta property="og:description" content="A multimodal hierarchical classification framework for e-commerce product categorization across 40 international fashion platforms, achieving 98.59% hierarchical F1 with CLIP and MLP late-fusion.">
+  <meta property="og:url" content="https://qiweihan.github.io/cross-platform-ecommerce/">
+  <meta property="og:image" content="https://qiweihan.github.io/cross-platform-ecommerce/static/images/social_preview.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="article:published_time" content="2025-08-27T00:00:00.000Z">
+  <meta property="article:author" content="Lotte Gross">
+  <meta property="article:section" content="Research">
+  <meta property="article:tag" content="e-commerce">
+  <meta property="article:tag" content="multimodal learning">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@francisihan">
+  <meta name="twitter:creator" content="@francisihan">
+  <meta name="twitter:title" content="Cross-Platform E-Commerce Product Categorization: A Multimodal Hierarchical Classification Approach">
+  <meta name="twitter:description" content="A multimodal hierarchical classification framework achieving 98.59% hierarchical F1 across 40 international fashion e-commerce platforms.">
+  <meta name="twitter:image" content="https://qiweihan.github.io/cross-platform-ecommerce/static/images/social_preview.png">
+
+  <!-- Academic/Research Specific -->
+  <meta name="citation_title" content="Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach">
+  <meta name="citation_author" content="Gross, Lotte">
+  <meta name="citation_author" content="Walter, Rebecca">
+  <meta name="citation_author" content="Zoppi, Nicole">
+  <meta name="citation_author" content="Justus, Adrien">
+  <meta name="citation_author" content="Gambetti, Alessandro">
+  <meta name="citation_author" content="Han, Qiwei">
+  <meta name="citation_author" content="Kaiser, Maximilian">
+  <meta name="citation_publication_date" content="2025">
+  <meta name="citation_conference_title" content="IEEE International Conference on Big Data (BigData) 2025">
+  <meta name="citation_arxiv_id" content="2508.20013">
+  <meta name="citation_pdf_url" content="https://arxiv.org/pdf/2508.20013.pdf">
+
+  <meta name="theme-color" content="#2563eb">
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://ajax.googleapis.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+
+  <title>Cross-Platform E-Commerce Product Categorization | Gross, Walter, Zoppi, Justus, Gambetti, Han, Kaiser</title>
+
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+  <link rel="preload" href="static/css/bulma-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="static/css/bulma-slider.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="static/css/fontawesome.all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  </noscript>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- JS -->
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/bulma-carousel.min.js"></script>
+  <script defer src="static/js/bulma-slider.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach",
+    "description": "A multimodal hierarchical classification framework for e-commerce product categorization across 40 international fashion platforms, achieving 98.59% hierarchical F1 with CLIP and MLP late-fusion.",
+    "author": [
+      {"@type": "Person", "name": "Lotte Gross"},
+      {"@type": "Person", "name": "Rebecca Walter"},
+      {"@type": "Person", "name": "Nicole Zoppi"},
+      {"@type": "Person", "name": "Adrien Justus"},
+      {"@type": "Person", "name": "Alessandro Gambetti"},
+      {"@type": "Person", "name": "Qiwei Han", "affiliation": {"@type": "Organization", "name": "Nova School of Business and Economics"}},
+      {"@type": "Person", "name": "Maximilian Kaiser"}
+    ],
+    "datePublished": "2025-08-27",
+    "url": "https://qiweihan.github.io/cross-platform-ecommerce/",
+    "keywords": ["e-commerce", "product categorization", "multimodal learning", "hierarchical classification", "CLIP", "self-supervised learning"],
+    "abstract": "This study addresses critical industrial challenges in e-commerce product categorization, namely platform heterogeneity and the structural limitations of existing taxonomies, by developing and deploying a multimodal hierarchical classification framework. Using a dataset of 271,700 products from 40 international fashion e-commerce platforms, we integrate textual features (RoBERTa), visual features (ViT), and joint vision-language representations (CLIP). We investigate fusion strategies, including early, late, and attention-based fusion within a hierarchical architecture enhanced by dynamic masking to ensure taxonomic consistency. Results show that CLIP embeddings combined via an MLP-based late-fusion strategy achieve the highest hierarchical F1 (98.59%), outperforming unimodal baselines. To address shallow or inconsistent categories, we further introduce a self-supervised product recategorization pipeline using SimCLR, UMAP, and cascade clustering, which discovered new, fine-grained categories with cluster purities above 86%.",
+    "isAccessibleForFree": true
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Scroll to Top Button -->
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <!-- More Works Dropdown -->
+  <div class="more-works-container">
+    <button class="more-works-btn" onclick="toggleMoreWorks()" title="View More Works">
+      <i class="fas fa-flask"></i>
+      More Works
+      <i class="fas fa-chevron-down dropdown-arrow"></i>
+    </button>
+    <div class="more-works-dropdown" id="moreWorksDropdown">
+      <div class="dropdown-header">
+        <h4>Related Works by Qiwei Han</h4>
+        <button class="close-btn" onclick="toggleMoreWorks()">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="works-list">
+        <a href="https://arxiv.org/abs/2305.10638" class="work-item" target="_blank">
+          <div class="work-info">
+            <h5>AiGen-FoodReview: A Multimodal Dataset of Machine-Generated Restaurant Reviews and Images on Social Media</h5>
+            <p>Multimodal benchmark for AI-generated content detection on social platforms.</p>
+            <span class="work-venue">ICWSM 2024</span>
+          </div>
+          <i class="fas fa-external-link-alt"></i>
+        </a>
+        <a href="https://arxiv.org/abs/2601.13975" class="work-item" target="_blank">
+          <div class="work-info">
+            <h5>Harmonizing the Deep: A Unified Information Pipeline for Robust Marine Biodiversity Assessment</h5>
+            <p>Cross-domain detection pipeline for underwater invasive species monitoring.</p>
+            <span class="work-venue">arXiv 2026</span>
+          </div>
+          <i class="fas fa-external-link-alt"></i>
+        </a>
+        <a href="https://link.springer.com/article/10.1007/s10660-022-09620-5" class="work-item" target="_blank">
+          <div class="work-info">
+            <h5>Towards Privacy-Preserving Digital Marketing</h5>
+            <p>Deep learning framework for user modeling on a data monetization platform.</p>
+            <span class="work-venue">Electronic Commerce Research 2023</span>
+          </div>
+          <i class="fas fa-external-link-alt"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <main id="main-content">
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">Lotte Gross,</span>
+              <span class="author-block">Rebecca Walter,</span>
+              <span class="author-block">Nicole Zoppi,</span>
+              <span class="author-block">Adrien Justus,</span>
+              <span class="author-block">Alessandro Gambetti,</span>
+              <span class="author-block"><a href="https://qiweihan.github.io" target="_blank">Qiwei Han</a>,</span>
+              <span class="author-block">Maximilian Kaiser</span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">IEEE International Conference on Big Data (BigData) &mdash; Macau, December 2025</span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://arxiv.org/pdf/2508.20013.pdf" target="_blank"
+                     class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2508.20013" target="_blank"
+                     class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="ai ai-arxiv"></i></span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Abstract -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              This study addresses critical industrial challenges in e-commerce product categorization — namely <em>platform heterogeneity</em> and the structural limitations of existing taxonomies — by developing and deploying a multimodal hierarchical classification framework. Using a dataset of <strong>271,700 products from 40 international fashion e-commerce platforms</strong>, we integrate textual features (RoBERTa), visual features (ViT), and joint vision-language representations (CLIP).
+            </p>
+            <p>
+              We investigate fusion strategies, including early, late, and attention-based fusion within a hierarchical architecture enhanced by dynamic masking to ensure taxonomic consistency. Results show that <strong>CLIP embeddings combined via an MLP-based late-fusion strategy achieve the highest hierarchical F1 (98.59%)</strong>, outperforming unimodal baselines.
+            </p>
+            <p>
+              To address shallow or inconsistent categories, we further introduce a self-supervised <em>"product recategorization"</em> pipeline using SimCLR, UMAP, and cascade clustering, which discovered new, fine-grained categories (e.g., subtypes of "Shoes") with <strong>cluster purities above 86%</strong>. Cross-platform experiments reveal a deployment-relevant trade-off: complex late-fusion methods maximize accuracy with diverse training data, while simpler early-fusion methods generalize more effectively to unseen platforms. Finally, we demonstrate industrial scalability through deployment in EURWEB's commercial transaction intelligence platform via a two-stage inference pipeline.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Key Contributions -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3 has-text-centered">Key Contributions</h2>
+          <div class="content">
+            <ul>
+              <li><strong>Multimodal Hierarchical Framework:</strong> Integrates RoBERTa (text), ViT (vision), and CLIP (vision-language) with early, late, and attention-based fusion strategies within a hierarchical architecture using dynamic masking for taxonomic consistency.</li>
+              <li><strong>State-of-the-Art Categorization:</strong> CLIP + MLP late-fusion achieves 98.59% hierarchical F1 on 271,700 products across 40 international fashion platforms, outperforming all unimodal baselines.</li>
+              <li><strong>Self-Supervised Recategorization Pipeline:</strong> SimCLR + UMAP + cascade clustering discovers new fine-grained product categories with cluster purities above 86%, enabling taxonomy enrichment without manual annotation.</li>
+              <li><strong>Cross-Platform Generalization Analysis:</strong> Reveals a practical trade-off — late-fusion maximizes accuracy with diverse training data; early-fusion generalizes better to unseen platforms.</li>
+              <li><strong>Industrial Deployment:</strong> Two-stage inference pipeline (lightweight RoBERTa + GPU-accelerated multimodal stage) deployed in EURWEB's commercial platform, balancing cost and accuracy at scale.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BibTeX -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <div class="bibtex-header">
+        <h2 class="title">BibTeX</h2>
+        <button class="copy-bibtex-btn" onclick="copyBibTeX()" title="Copy BibTeX to clipboard">
+          <i class="fas fa-copy"></i>
+          <span class="copy-text">Copy</span>
+        </button>
+      </div>
+      <pre id="bibtex-code"><code>@inproceedings{gross2025crossplatform,
+  title={Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach},
+  author={Gross, Lotte and Walter, Rebecca and Zoppi, Nicole and Justus, Adrien and Gambetti, Alessandro and Han, Qiwei and Kaiser, Maximilian},
+  booktitle={IEEE International Conference on Big Data (BigData)},
+  year={2025},
+  address={Macau, China},
+  url={https://arxiv.org/abs/2508.20013}
+}</code></pre>
+    </div>
+  </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+              This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
