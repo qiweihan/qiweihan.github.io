@@ -7,6 +7,7 @@ date: 2026-01-20
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2601.13975"
 projectpage: "https://qiweihan.github.io/harmonizing-the-deep/"
+link: "https://qiweihan.github.io/harmonizing-the-deep/"
 excerpt: "Proposes a Unified Information Pipeline for cross-domain marine biodiversity monitoring, identifying 'Context Collapse' as a key failure mode and validating edge hardware deployment for remote invasive species monitoring."
 citation: "Marco Piccolo, Qiwei Han, Astrid van Toor, Joachim Vanneste (2026). Harmonizing the Deep: A Unified Information Pipeline for Robust Marine Biodiversity Assessment Across Heterogeneous Domains. <i>arXiv preprint arXiv:2601.13975</i>."
 ---
